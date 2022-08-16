@@ -6,5 +6,7 @@ Daily challenges to improve my skills. Using the challenges from [50 Days of Pyt
 |-----------|------------|---------------------|-------|
 | Day 1     | Yes        | No                  |       |
 | Day 2     | Yes        | Yes                 |       |
+| Day 3     | Yes        | Yes                 |       |
+
 
 
