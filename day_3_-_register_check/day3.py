@@ -8,7 +8,6 @@ def register_check(passed_register):
     return students_attending
 
 
-
 register = {'Michael': 'yes', 'John': 'no',
-               'Peter': 'yes', 'Mary': 'yes'}
+            'Peter': 'yes', 'Mary': 'yes'}
 register_check(register)
