@@ -4,7 +4,8 @@ def user_name():
 
     username = email.split('@')
 
-    print(username(0))
+    print(username[0])
+    return username[0]
 
 
 user_name()
