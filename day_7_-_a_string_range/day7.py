@@ -1,8 +1,9 @@
 
-def string_range(input):
-    current_output =[]
-    for i in input:
-        current_output[i] = str(i)
+def string_range(input_value):
+    current_output = []
+    for i in range(input_value):
+        string_value = str(i)
+        current_output.append(string_value)
 
     output_string = ".".join(current_output)
 
