@@ -2,8 +2,8 @@
 
 def odd_even(input_list):
 
-    largest_even = ""
-    smallest_odd = ""
+    largest_even = 0
+    smallest_odd = 9999999
     for i in input_list:
 
         if i % 2 == 0:
@@ -14,9 +14,9 @@ def odd_even(input_list):
 
     result = largest_even - smallest_odd
 
-    print(result)
+    print(largest_even , " - " , smallest_odd , " = " , result)
 
     return result
 
 
-odd_even(1,2,4,6)
+odd_even([1, 2, 4, 6])
