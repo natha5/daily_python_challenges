@@ -18,4 +18,4 @@ Daily challenges to improve my skills. Using the challenges from [50 Days of Pyt
 | Extended 6 | No         |                |       |
 | Day 7      | Yes        | 24/8/22        |       |
 | Extended 7 | No         |                |       |
-
+| Day 8      | Yes        | 25/8/22        |       |
