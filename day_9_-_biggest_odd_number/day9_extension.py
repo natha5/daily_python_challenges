@@ -1,7 +1,7 @@
 def zeroes_last(input_list=[]):
     has_zeroes = False
-    for i in input_list:
-        if i == 0:
+    for i in range(len(input_list)):
+        if input_list[i] == 0:
             input_list.pop(i)
             input_list.append(0)
             has_zeroes = True
@@ -13,4 +13,4 @@ def zeroes_last(input_list=[]):
     return input_list
 
 
-zeroes_last([1, 4, 6, 0, 7, 0, 9])
+zeroes_last([2, 1 ,4, 7, 6])
