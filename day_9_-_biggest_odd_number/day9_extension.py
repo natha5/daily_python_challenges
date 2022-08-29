@@ -9,5 +9,8 @@ def zeroes_last(input_list=[]):
     if not has_zeroes:
         input_list.sort()
 
+    print(input_list)
+    return input_list
+
 
 zeroes_last([1, 4, 6, 0, 7, 0, 9])
