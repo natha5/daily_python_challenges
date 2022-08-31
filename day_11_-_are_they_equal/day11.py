@@ -20,6 +20,8 @@ def equal_strings(string_one, string_two):
         else:
             are_equal = True
 
+    print(are_equal)
+
 
 equal_strings('love', 'evol')
 
