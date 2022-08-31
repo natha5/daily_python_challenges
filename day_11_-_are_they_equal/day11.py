@@ -21,3 +21,5 @@ def equal_strings(string_one, string_two):
             are_equal = True
 
 
+equal_strings('love', 'evol')
+
