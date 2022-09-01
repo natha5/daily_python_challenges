@@ -8,3 +8,5 @@ def count_dots(input_string):
 
     print(count_of_dots)
     return(count_of_dots)
+
+count_dots('h.e.l.p.')
