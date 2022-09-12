@@ -7,4 +7,5 @@ def Python_snakes(input_value):
             print(emoji.emojize(':snake:'), end = ' ')
         print(' ')
 
+
 Python_snakes(7)
